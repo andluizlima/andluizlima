@@ -6,3 +6,4 @@ GIT
 git init
 git status
 git add nomearquivo
+git commit -m "MENSAGEM PARA DAR O COMMIT SENÃO DÁ XIBÚ"
