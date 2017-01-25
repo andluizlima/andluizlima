@@ -1,0 +1,8 @@
+nano - Abre o arquivo para edição
+mkdir -p - Cria uma nova pasta
+
+GIT
+
+git init
+git status
+git add nomearquivo
